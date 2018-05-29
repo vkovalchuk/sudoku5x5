@@ -4,7 +4,7 @@ Simple Java program to find a solution for the sudoku.
 
 There was 5 x 5 field split into 5 colored zones:
 
-![One picture worths](https://github.com/vkovalchuk/sudoku5x5/sudoku5x5.png)
+![One picture worths](https://raw.githubusercontent.com/vkovalchuk/sudoku5x5/master/sudoku5x5.png)
 
 Orange, Yellow, Pink, Green, Blue zones must contain unique numbers from 1..5
 and the same uniqueness must hold for rows and columns.
